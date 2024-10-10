@@ -1,3 +1,3 @@
 # Gheed Bot
 
-Educational Purposes Only. Not used for any illegal activities
+Educational Purposes Only. Well built proof of concept
